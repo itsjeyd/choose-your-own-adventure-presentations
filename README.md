@@ -1,5 +1,8 @@
 # Choose Your Own Adventure Presentations
-Use this code to create real-time branching presentations so 
+
+Hi there!
+
+Use this code to create real-time branching presentations so
 your audience can choose the path through your next technical talk.
 
 This project also is the default WSGI application for the
